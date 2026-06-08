@@ -1,0 +1,23 @@
+body{
+   
+    margin :80px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: large;
+}
+h1{
+    color: rgb(59, 30, 30);
+    background-color: rgb(194, 194, 245);
+    border: 50px;
+    border-color: rgb(22, 12, 32);
+}
+h2{
+    color: rgb(87, 39, 39);
+}
+
+*{
+    background-color: rgb(248, 240, 240);
+}
+.right-img {
+  float: right; 
+  margin-right: 100px;
